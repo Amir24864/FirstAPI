@@ -1,0 +1,31 @@
+C:\Users\Rayaneh Pardaz\source\repos\First Project\obj\Debug\net8.0\First Project.csproj.AssemblyReference.cache
+C:\Users\Rayaneh Pardaz\source\repos\First Project\obj\Debug\net8.0\First Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rayaneh Pardaz\source\repos\First Project\obj\Debug\net8.0\First Project.AssemblyInfoInputs.cache
+C:\Users\Rayaneh Pardaz\source\repos\First Project\obj\Debug\net8.0\First Project.AssemblyInfo.cs
+C:\Users\Rayaneh Pardaz\source\repos\First Project\obj\Debug\net8.0\First Project.csproj.CoreCompileInputs.cache
+C:\Users\Rayaneh Pardaz\source\repos\First Project\obj\Debug\net8.0\First Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rayaneh Pardaz\source\repos\First Project\obj\Debug\net8.0\First Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rayaneh Pardaz\source\repos\First Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Rayaneh Pardaz\source\repos\First Project\bin\Debug\net8.0\appsettings.json
+C:\Users\Rayaneh Pardaz\source\repos\First Project\bin\Debug\net8.0\First Project.staticwebassets.endpoints.json
+C:\Users\Rayaneh Pardaz\source\repos\First Project\bin\Debug\net8.0\First Project.exe
+C:\Users\Rayaneh Pardaz\source\repos\First Project\bin\Debug\net8.0\First Project.deps.json
+C:\Users\Rayaneh Pardaz\source\repos\First Project\bin\Debug\net8.0\First Project.runtimeconfig.json
+C:\Users\Rayaneh Pardaz\source\repos\First Project\bin\Debug\net8.0\First Project.dll
+C:\Users\Rayaneh Pardaz\source\repos\First Project\bin\Debug\net8.0\First Project.pdb
+C:\Users\Rayaneh Pardaz\source\repos\First Project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Rayaneh Pardaz\source\repos\First Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rayaneh Pardaz\source\repos\First Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rayaneh Pardaz\source\repos\First Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rayaneh Pardaz\source\repos\First Project\obj\Debug\net8.0\scopedcss\bundle\First Project.styles.css
+C:\Users\Rayaneh Pardaz\source\repos\First Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Rayaneh Pardaz\source\repos\First Project\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Rayaneh Pardaz\source\repos\First Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Rayaneh Pardaz\source\repos\First Project\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Rayaneh Pardaz\source\repos\First Project\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Rayaneh Pardaz\source\repos\First Project\obj\Debug\net8.0\First Pr.4BA53948.Up2Date
+C:\Users\Rayaneh Pardaz\source\repos\First Project\obj\Debug\net8.0\First Project.dll
+C:\Users\Rayaneh Pardaz\source\repos\First Project\obj\Debug\net8.0\refint\First Project.dll
+C:\Users\Rayaneh Pardaz\source\repos\First Project\obj\Debug\net8.0\First Project.pdb
+C:\Users\Rayaneh Pardaz\source\repos\First Project\obj\Debug\net8.0\First Project.genruntimeconfig.cache
+C:\Users\Rayaneh Pardaz\source\repos\First Project\obj\Debug\net8.0\ref\First Project.dll
